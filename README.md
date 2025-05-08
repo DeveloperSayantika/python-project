@@ -6,3 +6,5 @@ link shortener
 
 random password generator
 ![Screenshot 2025-04-03 185552](https://github.com/user-attachments/assets/f5e1fc2c-3bd2-46d6-8ae5-8cc93b61270a)
+Face News Detector Project
+![Screenshot 2025-05-08 195646](https://github.com/user-attachments/assets/8e4fac81-95d9-4e01-b7df-4ce56ce3129d)
